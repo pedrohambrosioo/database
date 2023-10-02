@@ -1,3 +1,3 @@
 # database
 Cadastro de usuário armazenando informações em banco de dados
-IMPORTANTE: projeto ainda está em fase inicial
+<h1>IMPORTANTE: projeto ainda está em fase inicial</h1>
